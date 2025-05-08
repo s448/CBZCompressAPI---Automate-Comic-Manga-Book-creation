@@ -1,0 +1,6 @@
+@czbCompressAPI_HostAddress = http://localhost:5201
+
+GET {{czbCompressAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
