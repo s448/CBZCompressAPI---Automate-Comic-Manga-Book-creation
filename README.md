@@ -55,8 +55,8 @@ This documentation covers the API for the macOS CBZ Compressor App. The applicat
   ```
 
 ---
-
-### 3️⃣ **Sync to Cloud**
+#### Future work: ####
+### **Sync to Cloud**
 
 * **Endpoint:** `/api/sync`
 * **Method:** `POST`
