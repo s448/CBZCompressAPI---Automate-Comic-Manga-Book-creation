@@ -1,3 +1,4 @@
+# ** CBZCompressAPI - Automate Comic & Manga Book creation
 # macOS CBZ Compressor App - API Documentation
 
 ## Overview
